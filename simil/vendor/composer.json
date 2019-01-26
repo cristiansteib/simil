@@ -1,0 +1,7 @@
+{
+    "require": {
+        
+        "doctrine/orm": "^2.6",
+      "ext-json": "*"
+    }
+}
